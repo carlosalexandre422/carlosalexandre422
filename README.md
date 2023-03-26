@@ -1,6 +1,6 @@
 # 😁 Hey! I'm Carlos.<br/>
 # 💫 About Me:
-🔭 I’m currently learning HTML, CSS and JavaScript<br>💻 I’m currently doing computer science university(learning Java)<br>🔍 I am currently looking for a job as a front end developer<br>🤝 Want to take a look at my projects?<br><br>
+🔭 I’m currently learning HTML, CSS and JavaScript<br>💻 I’m currently doing computer science university (studying Java)<br>🔍 I am currently looking for a job as a front end developer<br>🤝 Want to take a look at my projects?<br><br>
 
 
 ## 🌐 Socials:
