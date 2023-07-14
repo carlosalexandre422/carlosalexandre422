@@ -1,7 +1,4 @@
 # 😁 Hey! I'm Carlos.<br/>
-# 💫 About Me:
-🔭 I’m currently learning HTML, CSS and JavaScript<br>🤝 Want to take a look at my projects?<br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlosalexandre.sds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/carlosalexandre422) 
