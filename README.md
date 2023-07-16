@@ -1,20 +1,37 @@
-# 😁 Hey! I'm Carlos.<br/>
+<div align="center">
+  <a href="https://github.com/carlosalexandre422">
+    <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+  </a>
+</div>
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlosalexandre.sds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/carlosalexandre422) 
+<div align="center">
+  <!-- Work Links -->
+  <a href="https://github.com/carlosalexandre422" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<!--   <a href="https://hefesto.uea.edu.br/gitlab/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.linkedin.com/in/carlosalexandre422/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "carlos:carlosalexandrecopy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <!-- YT Links -->
+<!--   <a href="https://www.twitch.tv/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@AndreinaOliveira" target="_blank"><img src="https://img.shields.io/badge/@AndreinaOliveira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+<!--   <br><a href="https://www.youtube.com/@QAutodidata" target="_blank"><img src="https://img.shields.io/badge/@QAutodidata-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <!-- Social Links -->
+  <a href="https://instagram.com/carlosalexandre.sds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://twitter.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <!-- OTH Links -->
+<!--   <a href="https://trustinthesky.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white"></a>
+<!--   <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a> -->
+<!--   <a href="https://steamcommunity.com/id/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> -->
+</div>
+
+## ⭐️ About me
+<div>
+I am Carlos Alexandre, a computer science student passionate about learning and exploring the world of technology. Currently, I am dedicated to studying Machine Learning, Data Science, and Python, aiming to expand my knowledge in these areas. I am excited to apply my skills and take on challenges that allow me to grow professionally.
+</div><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=carlosalexandre422&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=carlosalexandre422&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalexandre422&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=carlosalexandre422&icon=6&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=carlosalexandre422&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalexandre422&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
