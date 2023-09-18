@@ -29,10 +29,3 @@ I am Carlos Alexandre, a computer science student passionate about learning and 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalexandre422&layout=donut&theme=dark" alt="Top Languages" style="margin-left: 10px;">
   </a>
 </div>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosalexandre422/carlosalexandre422/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosalexandre422/carlosalexandre422/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlosalexandre422/carlosalexandre422/output/github-contribution-grid-snake.svg">
-</picture> -->
-
